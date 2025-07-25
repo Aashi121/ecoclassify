@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# TensorFlow or model files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.pkl
+*.pyd
+*.dll
+
+# Log files
+*.log
+
+# Uploaded images or user data (if any)
+uploads/
+*.jpg
+*.png
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment/config files
+.env
+*.env
+
+# Git LFS attributes (if you ever use Git LFS)
+.gitattributes
