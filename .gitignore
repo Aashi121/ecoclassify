@@ -32,10 +32,6 @@ Thumbs.db
 # Log files
 *.log
 
-# Uploaded images or user data (if any)
-uploads/
-*.jpg
-*.png
 
 # Streamlit secrets
 .streamlit/secrets.toml
