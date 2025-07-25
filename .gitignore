@@ -21,7 +21,6 @@ Thumbs.db
 .idea/
 
 # TensorFlow or model files
-*.h5
 *.hdf5
 *.ckpt
 *.pb
