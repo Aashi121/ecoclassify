@@ -9,10 +9,6 @@ An intelligent waste classification system that promotes environmental awareness
 - ♻️ **SDG Goals Mapping**: Links to UN Sustainable Development Goals
 - 💡 **Creative Reuse Suggestions**: Get innovative recycling ideas
 
-## 🚀 Live Demo
-
-Try the app: [Your Streamlit URL will go here]
-
 ## 🛠️ Setup
 
 1. Clone the repository
