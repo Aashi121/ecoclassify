@@ -28,3 +28,8 @@ An intelligent waste classification system that promotes environmental awareness
 
 - **Image Classification**: TensorFlow model trained via Teachable Machine
 - **Environmental Analysis**: Ollama Mistral model for impact insights
+
+## 👥 Contributors
+- Ritesh N
+- Aashish Sharma
+- Radhika Bhatt
